@@ -1,3 +1,6 @@
 print "get"
 print "gud"
-print "sucka"
+print "aric
+print "1v1 me smash"
+print "then 1v1 fortnite"
+
