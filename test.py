@@ -1,3 +1,5 @@
-print "aric should play pc games"
-print "testing testing testing testing"
-print "1v1 me smash fortnite"
+<<<<<<< HEAD
+print "aric should play"
+print ";p"
+print "u"
+print "gud"
