@@ -1,4 +1,3 @@
-
-print "hello"
-print "bye nerds"
-print "lol this test is wack"
+print "get"
+print "gud"
+print "sucka"
