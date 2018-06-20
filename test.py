@@ -1,3 +1,3 @@
-print "get"
+print "jk"
+print "u"
 print "gud"
-print "sucka"
