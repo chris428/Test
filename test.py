@@ -1,3 +1,3 @@
-print "jk"
+print ";p"
 print "u"
 print "gud"
